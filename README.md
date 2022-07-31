@@ -1,12 +1,14 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there%2C+I'm+Gioack.;Hi+there%2C+I'm+Leon+Sand%C3%B8y.;Hi+there%2C+you+can+call+me+Lemon.;Hi+there%2C+I'm+a+content+creator.;Hi+there%2C+I'm+a+software+engineer.;Hi+there%2C+I'm+a+musician.)
+# Hi Everyone! I'm Leonardo Boscolo👋
 
-📚 Lover of knowledge 📚
-🌍 Owner of [geography_addicted]("https://www.instagram.com/p/CgpOTl3Nm-F/") 🌍
-🖥️ Coding enthustiast 🖥️
+📚 I love learning and being useful. 📚
 
+🌍 I'm the owner of [geography_addicted_]("https://www.instagram.com/geography_addicted_/") 🌍
 
+🖥️ Computer enthusiast since I was born 🖥️
 
+## Get in contact with me
 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kaWATNCnzf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-boscolo-gioachina-5613a3232/)
 
 <!---
