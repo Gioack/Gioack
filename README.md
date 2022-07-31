@@ -1,10 +1,10 @@
 # Hi Everyone! I'm Leonardo Boscolo👋
 
-📚 I love learning and being useful. 📚
+### 📚 I love learning and being useful. 📚
 
-🌍 I'm the owner of [geography_addicted_](https://www.instagram.com/geography_addicted_/) (40K+) 🌍
+### 🌍 I'm the owner of [geography_addicted_](https://www.instagram.com/geography_addicted_/) (40K+) 🌍
 
-🖥️ Computer enthusiast since I was born 🖥️
+### 🖥️ I'm a Computer enthusiast since I was born 🖥️
 
 ## Get in contact with me: 
 
