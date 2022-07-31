@@ -6,7 +6,7 @@
 
 🖥️ Computer enthusiast since I was born 🖥️
 
-## Get in contact with me
+## Get in contact with me: 
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kaWATNCnzf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-boscolo-gioachina-5613a3232/)
