@@ -2,7 +2,7 @@
 
 ### 📚 I love learning and being useful. 📚
 
-### 🌍 I'm the owner of [geography_addicted_](https://www.instagram.com/geography_addicted_/) (40K+) 🌍
+### 🌍 I'm the owner of [geography_addicted_](https://www.instagram.com/geography_addicted_/) (100K+) 🌍
 
 ### 🖥️ I've been a computer enthusiast since I was born. 🖥️
 
